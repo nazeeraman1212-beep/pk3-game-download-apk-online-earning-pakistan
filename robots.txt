@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nazeeraman1212-beep.github.io/pk3-game-download-apk-online-earning-pakistan/sitemap.xml
